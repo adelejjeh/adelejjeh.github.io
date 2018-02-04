@@ -64,9 +64,9 @@ Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  {% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 [//]: # Service and leadership
 [//]: # ======
