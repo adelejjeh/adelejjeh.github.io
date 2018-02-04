@@ -11,7 +11,7 @@ Hi! I'm Adel Ejjeh, a PhD candidate at the University of Illinois at Urbana-Cham
 
 Research Interests
 ------
-I am interested in the emergence of FPGAs in heterogeneous systems, and as such how to make these devices easier to use for those without a hardware background. Specifically, I am looking at automating the process of generating efficient FPGA implementations from high-level languages, with minimal programmer hand-holding, using compiler transformations. Also, another aspect which I am planning to look at is redesigning the FPGA memory-susbsystem abstractions to improve host-device interaction in heterogeneous systems with FPGAs.  
+I am interested in the emergence of FPGAs in heterogeneous systems, and as such how to make these devices easier to use for those without a hardware background. Specifically, I am looking into leveraging compiler techniques to automate the process of generating efficient implementations from high-level languages, as well as redesigning the FPGA memory subsystem to improve host-deveice interaction in heterogeneous systems.
 
 Academic Background
 -----
