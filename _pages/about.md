@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi! I'm Adel Ejjeh, a PhD candidate at the University of Illinois at Urbana-Champaign in the Computer Science department. I am co-advised by [Prof. Sarita Adve](http://rsim.cs.illinois.edu/~sadve/) and [Prof. Rob Rutenbar](http://rutenbar.cs.illinois.edu/). I am also working closely with [Prof. Vikram Adve](http://vikram.cs.illinois.edu) and his group. My primary area of research is Computer Architecture and Compilers. 
 
-Research Interest
+Research Interests
 ------
-I am interested in the emergence of FPGAs in heterogeneous systems, and as such how to make these devices easier to use for those without a hardware background. Specifically, we are looking at automating the process of generating efficient FPGA implementations from high-level languages, with minimal programmer hand-holding, using compiler transformations (we are working on this as part of the Heterogeneous Parallel Virtual Machine project described on Vikram's website). Also, another aspect which we are planning to look at is redesigning the FPGA memory-susbsystem abstractions to improve host-device interaction in heterogeneous systems with FPGAs.  
+I am interested in the emergence of FPGAs in heterogeneous systems, and as such how to make these devices easier to use for those without a hardware background. Specifically, I am looking at automating the process of generating efficient FPGA implementations from high-level languages, with minimal programmer hand-holding, using compiler transformations. Also, another aspect which I am planning to look at is redesigning the FPGA memory-susbsystem abstractions to improve host-device interaction in heterogeneous systems with FPGAs.  
 
 Academic Background
 -----
