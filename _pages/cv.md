@@ -21,6 +21,7 @@ Education
 
 Work experience
 ======
+
 University of Illinois at Urbana-Champaign (Urbana, IL)
 ------
 * Research Assistant (Jan 2016 - Present)
