@@ -8,7 +8,7 @@ date: 01-01-2014
 location: "Beirut, Lebanon"
 ---
 
-TA'd multiple courses and labs during my Master's degree, including intro to programming, digital design, electronics, and computer architecture.
+TA'd multiple courses and labs during my master's degree, including intro to programming, digital design, electronics, and computer architecture.
 
 Introduction to Programming Lab
 ------
