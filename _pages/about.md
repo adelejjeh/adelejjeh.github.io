@@ -19,4 +19,4 @@ I hold a Master of Engineering ('15) and a Bachelor of Engineering ('12), both i
 
 Personal Background
 -----
-I come from a small country in the Middle East called [Lebanon](https://en.wikipedia.org/wiki/Lebanon). It is a very beautiful country, sitting on the east coast of the Mediterranean Sea. The capital city, Beirut, has always been known as a top tourist attraction. If you are in the area, you should definitely visit! I moved to the US in 2015 to pursue my PhD degree. My hobbies include playing the piano, reading, and playing video games. 
+I come from a small country in the Middle East called [Lebanon](https://en.wikipedia.org/wiki/Lebanon). It is a very beautiful country, sitting on the east coast of the Mediterranean Sea. The capital city, Beirut, has always been known as a top tourist attraction. Check out [this](https://www.nytimes.com/2016/05/02/t-magazine/travel-beirut-architecture-art-design.html) NYTimes article about the beauty of Beirut; if you are in the area, you should definitely visit! I moved to the US in 2015 to pursue my PhD degree. My hobbies include playing the piano, reading, and playing video games. 
