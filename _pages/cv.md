@@ -43,10 +43,9 @@ and connected to a soft-core Microblaze processor. Supervisor: Prof. Mazen Saghi
 
 Skills
 ======
+
 **SW & HW Languages** | C, C++, MPI, OpenMP, CUDA, VHDL, Verilog, C#, Java, asp.net, Matlab, PIC assembly, MIPS assembly, X86 assembly 
-
 **Tools** | SimpleScalar, LLVM, Gem5, McPAT, Cadence Virtuoso, Xilinx ISE/Vivado, ModelSim
-
 **Languages** | Arabic and English (Native Fluency), French (Intermediate)
 
 [//]: # Publications
