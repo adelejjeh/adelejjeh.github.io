@@ -45,9 +45,7 @@ Skills
 ======
 
 **SW & HW Languages** &#124; C, C++, MPI, OpenMP, CUDA, VHDL, Verilog, C#, Java, asp.net, Matlab, PIC assembly, MIPS assembly, X86 assembly 
-
 **Tools** &#124; SimpleScalar, LLVM, Gem5, McPAT, Cadence Virtuoso, Xilinx ISE/Vivado, ModelSim
-
 **Languages** &#124; Arabic and English (Native Fluency), French (Intermediate)
 
 [//]: # Publications
