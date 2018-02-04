@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/masters-teaching
 venue: "American University of Beirut, ECE"
-date: 2014
+date: 01-01-2014
 location: "Beirut, Lebanon"
 ---
 
