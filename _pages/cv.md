@@ -20,6 +20,7 @@ Education
 
 Work experience
 ======
+
 University of Illinois at Urbana-Champaign (Urbana, IL)
 ------
 * Research Assistant (Jan 2016 - Present)
@@ -41,14 +42,10 @@ and connected to a soft-core Microblaze processor. Supervisor: Prof. Mazen Saghi
 
 Skills
 ======
-| SW & HW Languages   | Hello, Hello, Hello |
-| ------------------: | :------------------ |
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+table | one | two
+--- | --- | ---
+Nice | two | three
 
 Publications
 ======
