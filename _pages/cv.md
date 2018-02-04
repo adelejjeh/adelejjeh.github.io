@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please contact me if you would like a PDF version of my resome
+Please contact me if you would like a PDF copy of this resume.
 
 Education
 ======
