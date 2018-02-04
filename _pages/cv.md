@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Please contact me if you would like a PDF version of my resome
 
 Education
 ======
@@ -20,7 +21,6 @@ Education
 
 Work experience
 ======
-
 University of Illinois at Urbana-Champaign (Urbana, IL)
 ------
 * Research Assistant (Jan 2016 - Present)
@@ -42,7 +42,6 @@ and connected to a soft-core Microblaze processor. Supervisor: Prof. Mazen Saghi
 
 Skills
 ======
-
 **SW & HW Languages** | C, C++, MPI, OpenMP, CUDA, VHDL, Verilog, C#, Java, asp.net, Matlab, PIC assembly, MIPS assembly, X86 assembly 
 **Tools** | SimpleScalar, LLVM, Gem5, McPAT, Cadence Virtuoso, Xilinx ISE/Vivado, ModelSim
 **Languages** | Arabic and English (Native Fluency), French (Intermediate)
