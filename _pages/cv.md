@@ -11,25 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2012
+  * Graduated with Distinction
+* M.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2015
+  * Area: Computer Architecture - Advisor: Prof. Haitham Akkary
+* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2020 (expected)
+  * Area: Computer Architecture and Compilers - Advisors: Prof. Rob Rutenbar and Sarita Adve
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+University of Illinois at Urbana-Champaign (Urbana, IL)
+------
+* Research Assistant (Jan 2016 - Present)
+  * Implemented feed-forward of a Bitwise Neural network on the Maxeler Platform.
+  * Working on a collaborative project with Prof. Vikram Adve’s group which involves compiling from hardware agnostic high level languages down to FPGA through the HPVM intermediate representation, and redesigning the memory infrastructure in heterogeneous architectures with FPGAs.
+* Visiting Scholar (June 2014 - Aug 2014)
+  * Worked on the evaluation of Vector Seeker, a tool that detects vector potential in a sequential application, using PARSEC benchmarks. Supervisor: Prof. David Padua.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+American Unviersity of Beirut (Beirut, Lebanon)
+------
+* Research Assistant (Sept 2012 - Jan 2015)
+  * Implemented a performance simulator for the OpenSpMT Architecture and API on the SimpleScalar Tool Suite.
+
+Texas A&M University at Qatar (Doha, Qatar)
+------
+* Undergraduate Research Assistant
+  * Worked on designing a floating point unit that utilized the DSP blocks onboard the Xilinx Virtex-5 FPGA
+and connected to a soft-core Microblaze processor. Supervisor: Prof. Mazen Saghir.
+
 Skills
 ======
-* Skill 1
+| SW & HW Languages   | Hello, Hello, Hello |
+| ------------------: | :------------------ |
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
