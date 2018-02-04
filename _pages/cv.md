@@ -44,7 +44,6 @@ Skills
 ======
 
 table | one | two
---- | --- | ---
 Nice | two | three
 
 Publications
