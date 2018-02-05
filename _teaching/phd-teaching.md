@@ -2,7 +2,7 @@
 title: "PhD Teaching Experience"
 collection: teaching
 type: "Computer Architecture"
-permalink: /teaching/phd-teaching
+permalink: /teaching/phd-teaching.html
 venue: "University of Illinois at Urbana-Champaign"
 date: 2016-01-01
 location: "Urbana, IL"
