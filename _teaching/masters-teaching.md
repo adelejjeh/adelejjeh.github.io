@@ -2,7 +2,7 @@
 title: "Master's Teaching Experience"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/masters-teaching.hmtl
+permalink: /teaching/masters-teaching.html
 venue: "American University of Beirut, ECE"
 date: 01-01-2014
 location: "Beirut, Lebanon"
