@@ -12,12 +12,12 @@ Please contact me if you would like a PDF copy of this resume.
 
 Education
 ======
-* B.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2012
-  * Graduated with Distinction
-* M.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2015
-  * Area: Computer Architecture - Advisor: Prof. Haitham Akkary
 * Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2020 (expected)
   * Area: Computer Architecture and Compilers - Advisors: Prof. Rob Rutenbar and Sarita Adve
+* M.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2015
+  * Area: Computer Architecture - Advisor: Prof. Haitham Akkary
+* B.E. in Electrical and Computer Engineering, American University of Beirut, Beirut, Lebanon, 2012
+  * Graduated with Distinction
 
 Work experience
 ======
@@ -37,7 +37,7 @@ American Unviersity of Beirut (Beirut, Lebanon)
 
 Texas A&M University at Qatar (Doha, Qatar)
 ------
-* Undergraduate Research Assistant
+* Undergraduate Research Assistant (June 2011 - Aug 2011)
   * Worked on designing a floating point unit that utilized the DSP blocks onboard the Xilinx Virtex-5 FPGA
 and connected to a soft-core Microblaze processor. Supervisor: Prof. Mazen Saghir.
 
